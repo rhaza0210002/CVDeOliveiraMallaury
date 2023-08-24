@@ -1,0 +1,29 @@
+body {
+    min-width: 100%
+}
+img{
+    width: 15vw;
+}
+.introduction{
+    top : 0px;
+    min-height: 100%;
+    min-width: 30%;
+    background-color: #3D3D3D;
+
+}
+ 
+header {
+}
+.presentation, li {
+    color: #6DD0DB;
+    text-decoration : none;
+    color: bisque;
+    list-style: none;
+}
+.wait {
+    top : 0px;
+    min-height: 100%;
+    min-width: 70%;
+    background-color:bisque;
+    color : #3D3D3D;
+}
