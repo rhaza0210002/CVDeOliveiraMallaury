@@ -1,0 +1,64 @@
+.container {
+	min-width: 100%;
+    font-family: 'Lato', sans-serif;
+
+}
+img{
+    width: 15vw;
+    background-color: #6DD0DB;
+}
+ul li{
+    list-style:none;
+}
+
+
+.introduction {
+    color: #FFFFFF;
+    background-color: #3D3D3D;
+    font-size: 1.05em;
+    font-weight: 400;
+}
+
+#adress {
+    text-decoration :none;
+    color: #FFFFFF;
+ }
+
+ .wait {
+    background-color: #FFFFFF;
+    color : #3D3D3D;
+    font-size: 1.05em;
+    font-weight: 400;
+    font-weight: 100;
+ }
+
+ h1, h2 {
+    color: #6DD0DB;
+    font-size: 500px;
+    font-weight: 900;
+}
+/* 
+.introduction{
+    top : 0px;
+    min-width: 30%;
+    
+}
+
+h1,h2 {
+
+}
+header {
+}
+
+    .presentation li, #adress {
+    color: #FFFFFF;
+}
+.wait{
+    min-width: 70%;
+    background-color:#FFFFFF;
+ 
+}
+.wait li {
+    list-style:none;
+
+} */
